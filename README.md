@@ -6,5 +6,5 @@ This package contains a collection of functions I have found to be useful, yet d
 You can install this package from github with
 ```r
 library(devtools)
-install_github("dansRfunctions", "dan410")
+install_github("dan410/dansRfunctions")
 ```
